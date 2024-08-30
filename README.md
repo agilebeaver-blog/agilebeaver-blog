@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin to gather experience in the language potentials and its pitfalls.
 - 📫 How to reach me: follow me on my new blog https://blog.agilebeaver.com (the first topics will be published end of September 2024).
 - 😄 Pronouns: calm and reflective
-- ⚡ Fun fact: I do a lot of cycling on a racer, most of the time in noth-western Germany.
+- ⚡ Fun fact: I do a lot of cycling on a racer, most of the time in north-western Germany.
 
 <!---
 agilebeaver-blog/agilebeaver-blog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
